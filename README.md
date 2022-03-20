@@ -1,4 +1,4 @@
-<p align="center"> 
-  <img src="eye-logo.png" alt="v" 
-       </p>
+<div align="center"> 
+  <img src="the-eye.png" alt="v" 
+       </div>
  
